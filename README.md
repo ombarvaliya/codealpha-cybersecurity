@@ -1,5 +1,5 @@
 # codealpha-cybersecurity
-# Cyber Security Internship @ CodeAlpha – January 2025
+# Cyber Security Internship @ CodeAlpha – May 2025
 
 ## TASK 1 – Network Traffic Sniffer  
 Build a Python-based network sniffer that captures and inspects network packets.  
